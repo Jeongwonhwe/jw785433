@@ -5,8 +5,6 @@ public class Sub extends Abs {
     public double operate(int firstNumber, int secondNumber) {
         return firstNumber - secondNumber;
     }
-    //public double operate (int firstNumber, int secondNumber) {
-        //return firstNumber - secondNumber;
     }
 
 
